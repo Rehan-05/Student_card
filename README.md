@@ -1,2 +1,2 @@
-# Student_card
+# Java
 Assignment
